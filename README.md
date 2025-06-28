@@ -15,12 +15,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihee1103&layout=compact&theme=shadow_blue)
 
 
-
 ### 🌐 Languages
 - 🇰🇷 Korean: Native  
 - 🇯🇵 Japanese: Native-like fluency (JLPT N1, 6+ years of experience)  
 - 🇺🇸 English: Conversational
 
+<!-- - 📒 [Portfolio](https://your-portfolio-link.com)  이력서도 붙여넣기 -->
+### 🔗 Contact
+- 📬 jihee.c.1103@gmail.com
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&fontSize=48&descAlignY=50&descAlign=60&color=92A8D1&height=200&section=footer)
