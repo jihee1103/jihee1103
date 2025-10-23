@@ -17,7 +17,7 @@
 
 ### 🌐 Languages
 - 🇰🇷 Korean: Native  
-- 🇯🇵 Japanese: Native-like fluency (JLPT N1, Worked and lived in Japan)  
+- 🇯🇵 Japanese: near Native (JLPT N1, Worked and lived in Japan)  
 - 🇺🇸 English: Conversational
 
 <!-- - 📒 [Portfolio](https://your-portfolio-link.com)  이력서도 붙여넣기 -->
