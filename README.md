@@ -22,7 +22,7 @@
 
 <!-- - 📒 [Portfolio](https://your-portfolio-link.com)  이력서도 붙여넣기 -->
 ### 🔗 Contact
-- 📬 jihee.c.1103@gmail.com
+- 📬 c.jihee1103@gmail.com
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&fontSize=48&descAlignY=50&descAlign=60&color=92A8D1&height=200&section=footer)
